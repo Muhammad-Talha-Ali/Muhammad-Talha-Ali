@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/6RLkxkP.gif" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=250&section=header&text=Analyst&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=XR%20%7C%20AI%20%7C%20Creative%20Technologist&descAlignY=60" width="100%" />
 
 </div>
 
@@ -101,14 +101,12 @@ Creative Tech:
 <a href="https://www.linkedin.com/in/mohammadtalhaali//">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="https://behance.net/styleforev23f3"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 <a href="https://www.youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+
 
 </div>
 
