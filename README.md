@@ -27,7 +27,7 @@ I love blending **technology + creativity** to create experiences that feel futu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,js,ts,react,nodejs,opencv,blender,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,js,opencv,blender,git,github,vscode" />
 
 </div>
 
@@ -66,17 +66,6 @@ Creative Tech:
 - 🧠 Computer Vision Systems
 - 🎮 Game Development & Streaming
 - 🛠️ Creative Development Tools
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talha-Ali&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
